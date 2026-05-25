@@ -1,3 +1,3 @@
 # ChatWithLLM
 My Chats with Chatgpt with regards to my final ELEN4019 ESSAY
-Chats can be found in the chatlog.md section
+Link: https://chatgpt.com/share/6a1446d8-ee3c-8326-94a1-a4206e8f8121
