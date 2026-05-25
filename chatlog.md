@@ -532,36 +532,72 @@ is now approximately:
 So you are now safely under the 1500-word limit.
 
 
-and how is the grammer still all good ?
+is the rest of the essay fine grammer wise
 
-Yes — grammatically it is strong now. Honestly, at this point, there are no glaring grammar mistakes left. 
+Yes — at this point the essay is grammatically strong overall. 
 
 
-You’re now mostly in:
+There are no major grammar problems left. The remaining issues are extremely minor stylistic/punctuation refinements rather than mistakes that would hurt marks.
 
-stylistic preference territory,
+These are the ONLY things I would still tweak:
 
-punctuation consistency,
-
-academic tone refinement,
-
-rather than actual grammar errors.
-
-The essay reads naturally and coherently throughout.
-
-Only VERY tiny final things I’d still fix:
-
-1. Replace this hyphen
+1. Replace hyphen with em dash
 Current:
 
 is gone - leaving something feudal in shape.
-Final version:
+Better:
 
 is gone—leaving something feudal in shape.
-This is the only punctuation issue that still visibly stands out.
+This is the only punctuation issue that still stands out noticeably.
 
-2. Tiny comma suggestion
+2. Optional smoother sentence
 Current:
 
-What looks novel is merely the latest expression of an old habit: the enclosing of things that used to be open or unowned (our attention, our data, our access to the networks daily life now runs on) fenced off into private assets that you have
+The control it produces is new too.
+This sentence is not wrong, but slightly abrupt/staccato.
+
+Could become:
+
+The form of control it produces is new too.
+OR just delete it entirely (honestly cleaner).
+
+3. Tiny readability issue
+Current:
+
+(our attention, our data, our access to the networks daily life now runs on)
+fenced off into private assets
+This is grammatically correct, but slightly dense.
+
+Could become:
+
+(our attention, our data, and our access to the networks that daily life now runs on)
+Not necessary though.
+
+4. Reference capitalization consistency
+Still optional:
+
+Big other: surveillance capitalism...
+Could be:
+
+Big Other: Surveillance Capitalism...
+depending on Harvard style convention.
+
+Beyond that:
+
+sentence structure = strong
+
+punctuation = strong
+
+transitions = strong
+
+tense consistency = strong
+
+academic tone = strong
+
+readability = very good
+
+grammar errors = basically gone
+
+It now reads like a polished university humanities/social theory essay rather than a rushed student draft.
+
 
